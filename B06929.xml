@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's new bell man. Ringing into all peoples ears, God's dreadful judgment to this land and kingdom, prognosticated by the great eclipse of the sun, March 29. 1652, the strange effects to continue, 1654, 1655, 1656. to the amazement of the whole world. To the tune of, Man in desparation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658-1695?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06929</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[141]</idno>
+            <idno type="EEBO-CITATION">99887689</idno>
+            <idno type="PROQUEST">ocm99887689</idno>
+            <idno type="VID">183326</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06929)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183326)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[117])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's new bell man. Ringing into all peoples ears, God's dreadful judgment to this land and kingdom, prognosticated by the great eclipse of the sun, March 29. 1652, the strange effects to continue, 1654, 1655, 1656. to the amazement of the whole world. To the tune of, Man in desparation.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1658-1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by other editions in Wing.</note>
+                  <note>Verse: "Awake, awake, O England ..."</note>
+                  <note>Imperfect: stained and trimmed, affecting title and imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183326:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <head>England's New Bell Man, Ringing into all People Ears, God's Dreadful Judgment to this Land and King<g ref="char:EOLhyphen"/>dom, Prognoſticated by the great Eclipſe of the Sun, <hi>March.</hi> 29. 1652, the ſtrange Effects to continue, 1654, 1655, 1656. to the Amazement of the whole World.</head>
+            <opener>To the Tune of, <hi>O Man in Diſparation.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>AWake, awake, O <hi>England,</hi>
+               </l>
+               <l>ſweet <hi>England</hi> now awake</l>
+               <l>And to thy Prayers ſpeedily,</l>
+               <l>do thou thy ſelf betake;</l>
+               <l>The Lord thy God is coming</l>
+               <l>within the Sky ſo clear,</l>
+               <l>
+                  <hi>Repent therefore O</hi> England,</l>
+               <l>
+                  <hi>the day that draweth near.</hi>
+               </l>
+               <l>The dreadful day of vengeance,</l>
+               <l>is ſhortly now at hand,</l>
+               <l>When fearful burning fire,</l>
+               <l>Shall waſte both Sea and Land;</l>
+               <l>And all means hearts ſhall fail them</l>
+               <l>to ſee ſuch things appear, <hi>Repent,</hi> &amp;c.</l>
+               <l>The worldly wiſe and prudent,</l>
+               <l>ſhall fall beſides their wits,</l>
+               <l>And wiſh the Hills to fall on them,</l>
+               <l>in theſe their frantick fits:</l>
+               <l>No ſuccour, help nor comfort,</l>
+               <l>for them ſhall then appear, <hi>Repent,</hi> &amp;c.</l>
+               <l>The Seas and Rivers running,</l>
+               <l>ſhall roar in grievous wiſe,</l>
+               <l>The Beaſts in Paſtures feeding,</l>
+               <l>ſtill ſtrain forth grevious cries.</l>
+               <l>The Skies ſhall flame with fire,</l>
+               <l>the Earth ſhall burn ſo clear,</l>
+               <l>
+                  <hi>Repent therefore O</hi> England,</l>
+               <l>
+                  <hi>the day it draweth near.</hi>
+               </l>
+               <l>The glorious holy Angels,</l>
+               <l>ſhall then their Trumpees ſound</l>
+               <l>The dead ſhall hear their voises,</l>
+               <l>as they lye in the ground;</l>
+               <l>Then all the Graves ſhall open,</l>
+               <l>and dead men ſhall appear, <hi>Repent,</hi> &amp;c.</l>
+               <l>The Devil will be ready then,</l>
+               <l>each Creature to accuſe;</l>
+               <l>And ſhew how in their life time,</l>
+               <l>they did themſelves abuſe;</l>
+               <l>And every mans own Conſcience,</l>
+               <l>for witneſs ſhall appear, <hi>Repent,</hi> &amp;c.</l>
+               <l>The works of every creature,</l>
+               <l>their thoughts and deeds I ſay.</l>
+               <l>Shall follow them together,</l>
+               <l>in that moſt dreadful day:</l>
+               <l>And no reſpect of perſons,</l>
+               <l>ſhall at that day appear,</l>
+               <l>
+                  <hi>Repent therefore O</hi> England</l>
+               <l>
+                  <hi>the day it draweth near.</hi>
+               </l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>BUt ſuch as have done juſtly,</l>
+               <l>ſhall wear the Crown of Life;</l>
+               <l>The wicked ſhall be Damned,</l>
+               <l>to ſorrow, pain and grief:</l>
+               <l>Inboyling brans of Brimſtone,</l>
+               <l>with doleful heavy cheer,</l>
+               <l>
+                  <hi>Repent therefore O</hi> England,</l>
+               <l>
+                  <hi>the day it draweth near.</hi>
+               </l>
+               <l>But woe unto that woman,</l>
+               <l>which then with Child ſhall go,</l>
+               <l>And to the ſilly Nurſes,</l>
+               <l>which do give Suck alſo;</l>
+               <l>When as the day of Iudgment</l>
+               <l>ſo grevous ſhall appear, <hi>Repent,</hi> &amp;c.</l>
+               <l>And pray with tears moſt conſtant,</l>
+               <l>unto the Lord of might,</l>
+               <l>That in the frozen winter</l>
+               <l>you do not take your flight:</l>
+               <l>Nor that upon the Sabbath,</l>
+               <l>that peril do appear,</l>
+               <l>
+                  <hi>Repent,</hi> &amp;c.</l>
+               <l>Let all good Chriſtian people,</l>
+               <l>repent therefore in time;</l>
+               <l>And from their hearts lamenting,</l>
+               <l>each former grievous crime:</l>
+               <l>Prepare themſelves with gladneſs,</l>
+               <l>to watch when Chriſt ſhall come;</l>
+               <l>The trump ſhall ſound, and ſuddain,</l>
+               <l>and no man knows how ſoon:</l>
+               <l>
+                  <hi>Repent,</hi> &amp;c.</l>
+               <l>For all things are fulfilled,</l>
+               <l>which Chriſt before had told,</l>
+               <l>Small Faith is now remaining,</l>
+               <l>and Charity's grown cold;</l>
+               <l>Great ſigns &amp; wonders we have ſeen</l>
+               <l>within the Earth and Sky,</l>
+               <l>
+                  <hi>Repent,</hi> &amp;c.</l>
+               <l>Why doſt thou put thy confidence</l>
+               <l>in ſtrong and ſtately Towers,</l>
+               <l>Why takeſt thou ſuch pleaſure,</l>
+               <l>in building ſumptuous Bowers:</l>
+               <l>Rejoycing in thy Paſtures,</l>
+               <l>and Park of fallow Dear;</l>
+               <l>
+                  <hi>Repent,</hi> &amp;c.</l>
+               <l>Why ſeekeſt thou deceitfully</l>
+               <l>to purchaſe treaſure great,</l>
+               <l>Or why does thou through Vſury.</l>
+               <l>the bread of poor Men eat?</l>
+               <l>Why doth the life and living,</l>
+               <l>ſo filthily appear;</l>
+               <l>
+                  <hi>Repent,</hi> &amp;c.</l>
+               <l>Wherefore let all good people</l>
+               <l>upon their knees proceed,</l>
+               <l>In making earneſt Prayer</l>
+               <l>for never was more need;</l>
+               <l>That God may ſpare the puniſhment</l>
+               <l>even for his mercy meer,</l>
+               <l>
+                  <hi>And give Grace to bear in mind,</hi>
+               </l>
+               <l>
+                  <hi>the Judgment day is near.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
